@@ -2,7 +2,7 @@
 
 A whimsical Role-Playing Game (RPG) interface built for Software Structures for User Interfaces Fall 2025.
 
-## Deployed website: https://ssui-4da8so4dn-soyon-kims-projects.vercel.app
+## Deployed website: [https://ssui-4da8so4dn-soyon-kims-projects.vercel.app](https://ssui-rpg-rtcc-d1jqvxbjx-soyon-kims-projects.vercel.app/)
 
 ## How to Run This Project Locally
 Follow these steps to clone, install, and run the RPG locally on your computer.
